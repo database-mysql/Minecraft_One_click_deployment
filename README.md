@@ -1,0 +1,2 @@
+# Minecraft_One_click_deployment
+一键部署Minecraft Server的简易Python脚本
